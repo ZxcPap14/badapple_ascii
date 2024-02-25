@@ -1,0 +1,10 @@
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\obj\Debug\BadAppleV2.csproj.AssemblyReference.cache
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\obj\Debug\BadAppleV2.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\bin\Debug\BadAppleV2.exe.config
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\bin\Debug\BadAppleV2.exe
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\bin\Debug\BadAppleV2.pdb
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\obj\Debug\BadAppleV2.exe
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\obj\Debug\BadAppleV2.pdb
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\obj\Debug\Interop.WIA.dll
+C:\Users\SystemX\source\repos\BadAppleV2\BadAppleV2\obj\Debug\BadAppleV2.csproj.ResolveComReference.cache
